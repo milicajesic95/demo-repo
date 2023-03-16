@@ -1,4 +1,4 @@
 #Header
 This is some file
 
-##Tis is subheader
+##This is subheader
